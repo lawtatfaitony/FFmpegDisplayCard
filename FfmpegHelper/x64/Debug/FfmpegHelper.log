@@ -1,0 +1,13 @@
+﻿  StreamHandle.cpp
+f:\ffmpeg_test\ffmpeg_navida_test\ffmpeghelper\ffmpeghelper\threadpool.h(79): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+f:\ffmpeg_test\ffmpeg_navida_test\ffmpeghelper\ffmpeghelper\streamhandle.cpp(299): warning C4018: “<”: 有符号/无符号不匹配
+f:\ffmpeg_test\ffmpeg_navida_test\ffmpeghelper\ffmpeghelper\streamhandle.cpp(484): warning C4101: “data_size”: 未引用的局部变量
+f:\ffmpeg_test\ffmpeg_navida_test\ffmpeghelper\ffmpeghelper\streamhandle.cpp(524): warning C4996: 'av_copy_packet': 被声明为已否决
+  c:\develop\ffmpeg\include\libavcodec\avcodec.h(4453): note: 参见“av_copy_packet”的声明
+f:\ffmpeg_test\ffmpeg_navida_test\ffmpeghelper\ffmpeghelper\streamhandle.cpp(534): warning C4101: “e”: 未引用的局部变量
+f:\ffmpeg_test\ffmpeg_navida_test\ffmpeghelper\ffmpeghelper\streamhandle.cpp(645): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+f:\ffmpeg_test\ffmpeg_navida_test\ffmpeghelper\ffmpeghelper\threadpool.h(79): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  FfmpegHelper.vcxproj -> F:\FFMPEG_TEST\FFMPEG_NAVIDA_TEST\FfmpegHelper\x64\Debug\FfmpegHelper.exe
+  FfmpegHelper.vcxproj -> F:\FFMPEG_TEST\FFMPEG_NAVIDA_TEST\FfmpegHelper\x64\Debug\FfmpegHelper.pdb (Full PDB)
